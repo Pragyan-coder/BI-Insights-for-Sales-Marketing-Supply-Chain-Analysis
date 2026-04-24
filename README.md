@@ -20,6 +20,8 @@ So, the goal of this project is to implement an advanced analytics solution usin
 ### Interactive Dashboard Link:
 - [Click here to View](https://app.powerbi.com/view?r=eyJrIjoiMTEzMTRjNGEtNmVhOC00NzYyLWFmZTQtNjkwYjBiODAyNGQxIiwidCI6IjFlM2U2YmJlLTVkNzMtNGVhMS1iNDVlLTc0YzgzOThhNTM5OSJ9)
 
+- [Click here to View](https://app.powerbi.com/view?r=eyJrIjoiMTEzMTRjNGEtNmVhOC00NzYyLWFmZTQtNjkwYjBiODAyNGQxIiwidCI6IjFlM2U2YmJlLTVkNzMtNGVhMS1iNDVlLTc0YzgzOThhNTM5OSJ9)
+
 Once done, the report could be used by stakeholders from sales, marketing, finance, and the executive team. The focus is on the following:
 - Robust Data Modeling
 - User-empathetic Report design
